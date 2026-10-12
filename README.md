@@ -83,7 +83,7 @@ PrivateSeal is intended for research on provenance, ownership verification, and 
 
 ## Citation
 
-If you use this code, please cite the PrivateSeal paper. Replace the author and venue fields below with the final publication metadata before release:
+If you use this code, please cite the PrivateSeal paper:
 
 ```bibtex
 @inproceedings{
