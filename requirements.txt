@@ -1,0 +1,19 @@
+# Install torch and torchvision separately using the wheel index matching your CUDA version.
+accelerate==1.15.0
+bchlib==2.1.3
+diffusers==0.41.0
+huggingface-hub==1.33.0
+kornia==0.8.3
+lpips==0.1.4
+matplotlib==3.10.5
+numpy==2.3.2
+opencv-python-headless==5.0.0.93
+pandas==3.0.6
+Pillow==11.3.0
+PyYAML==6.0.2
+safetensors==0.8.0
+scikit-image==0.26.0
+scipy==1.18.1
+torchmetrics==1.9.0
+tqdm==4.66.2
+transformers==5.19.0
